@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+ 
+}
+
+.navbar > img {
+    width: 295px;
+    height: 60px;
+    cursor: pointer;
+    padding-top: 13px;
+    padding-left: 80px ; 
+} 
+
+.menu {
+    padding-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    flex:0.99;
+}
+
+.navbar {
+ 
+    
+    height: 71px;
+    width:100%;
+    box-shadow:  0px 1px 8px #000000;
+    border-bottom: 10px ;
+    display: flex;
+    background-color:rgb(0, 0, 0);
+   position: fixed;
+  
+  
+    
+}

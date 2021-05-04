@@ -1,0 +1,12 @@
+
+ 
+.menu-icon {
+    width: 70px;
+    height: 35px;
+    color: white;
+}
+
+
+.uppercase{
+    text-transform: capitalize;
+}
